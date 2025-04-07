@@ -22,7 +22,7 @@ EZPassNH is a digital expense tracking application designed to help users manage
 
 **Name:** Your A/C Name  
 **Email:** Your a/c email id  
-**Website:** EZPassNH  
+**Website:** [EZPassNH](https://www.ezpass-nh.com) 
 
 With a strong background in full-stack development, the author has contributed to various open-source projects. Passionate about coding, innovation, and community support, they are dedicated to creating software that enhances everyday life.
 
